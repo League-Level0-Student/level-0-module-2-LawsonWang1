@@ -35,7 +35,7 @@ void draw() {
 
     //6. Use an if statement to play a sound (ding) when your dot crosses the finish line (right side of window).
     //   A playSound() method is provided (you have to uncomment the code at the bottom of this program to get this to work)
-    if (x==800){
+    if (x>=800){
        playSound(); 
     }
 

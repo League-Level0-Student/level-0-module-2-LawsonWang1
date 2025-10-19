@@ -10,6 +10,7 @@ public class HowMany {
 	
 	public static void main(String[] args) {
 		int number = 0;
+		number = getRandomNumber();
 		System.out.println(number);
 	}
 	

@@ -16,8 +16,9 @@ void setup(){
      // Use the method provided to add some sprinkles to your ice cream
      addSprinkle(100);
      // Write code to add a cherry to the top of your ice cream. Hint: ellipse
+     fill (255,0,0);
      ellipse (250,33,25,25);
-     fill(255,0,0);
+     
 }
 
 /***********  These are methods for you to use. DON'T CHANGE CODE BELOW THIS LINE !!!   *****************/
